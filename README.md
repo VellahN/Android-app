@@ -1,2 +1,2 @@
-# Android-app
-Its an application for count down numbers
+# Data science project
+Its a model for predicting elections and road accidents using sklearn
